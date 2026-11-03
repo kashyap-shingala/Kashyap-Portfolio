@@ -2,6 +2,8 @@
 
 A static, responsive single-page portfolio built with semantic HTML and CSS. It has no build step, JavaScript, server-side code, or database.
 
+https://kashyap-shingala.github.io/Kashyap-Portfolio/
+
 ## Run locally
 
 Open `index.html` directly in a browser, or serve this folder with any static HTTP server. The Manus Preview uses port `3000`.
